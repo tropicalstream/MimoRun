@@ -8,6 +8,13 @@ When gadget-obsessed Zookeeper Grubb bumbles into the Sunrise Sanctuary and cage
 
 For teens and up. No fail states that cost you more than ten seconds. No stats, no grind — just paths, secrets, and a world worth un-greying. Roughly 2+ hours to see everything, playable in 10-minute bites, saved invisibly the entire time.
 
+## Screenshots
+
+<p>
+  <img src="images/title.png" width="45%" alt="GO GO MIMO! title screen with Mimo and a baby monkey">
+  <img src="images/gogo.png" width="45%" alt="Mimo talking to GOGO the tortoise in Sunrise Plaza">
+</p>
+
 ## Controls — the whole game on one temple pad
 
 | Do this | Get this |
