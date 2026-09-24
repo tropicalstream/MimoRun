@@ -1,12 +1,6 @@
 # GO GO MIMO!
 
-The sanctuary's gone grey. One monkey is bringing the color back.
-
-GO GO MIMO! is a run-and-explore adventure built exclusively for RayNeo X3 Pro AR glasses — a full stereoscopic 3D world that lives in your lenses and answers to two fingers on your temple.
-
-When gadget-obsessed Zookeeper Grubb bumbles into the Sunrise Sanctuary and cages Mimo's mother — tripping over his own net in the process — the whole world drains to security-grid grey. Playing as Mimo, a monkey with more agility than patience, you'll dash, climb, swim, and balance across six districts, crack Grubb's falling-block security grids where every match breaks a lock, and literally recolor the world with every challenge you clear. Befriend five locals, earn gear that opens new verbs instead of bigger numbers, win races against a penguin with something to prove, and top the leaderboard-of-one at four arcade stops along the way. It ends the only way it should: a reunion that blooms the whole sanctuary back to life while Grubb flees with his gadgets raining off him.
-
-For teens and up. No fail states that cost you more than ten seconds. No stats, no grind — just paths, secrets, and a world worth un-greying. Roughly 2+ hours to see everything, playable in 10-minute bites, saved invisibly the entire time.
+GO GO MIMO! is a stereoscopic 3D run-and-explore adventure built exclusively for RayNeo X3 Pro AR glasses, controlled entirely through two fingers on a single temple pad. Playing as Mimo, a monkey whose mother has been caged by a gadget-obsessed zookeeper, the player dashes, climbs, swims, and balances across six color-drained districts, clearing falling-block puzzle challenges that recolor the world one district at a time. Progression is built around new movement abilities rather than escalating stats, with no punishing fail states, roughly two hours of content playable in short sessions, and progress saved invisibly throughout. The game is free software, released under the GPL v3.
 
 ## Screenshots
 
@@ -15,23 +9,13 @@ For teens and up. No fail states that cost you more than ten seconds. No stats, 
   <img src="images/gogo.png" width="45%" alt="Mimo talking to GOGO the tortoise in Sunrise Plaza">
 </p>
 
-## Controls — the whole game on one temple pad
+## Controls
 
-| Do this | Get this |
-|---|---|
-| Swipe forward / back | dash, brake, switch lanes, move the menu cursor |
-| Tap | jump, double-jump with the Spring Tail, grab hoops, choose |
-| Big arm swipe up & down | slam-drop puzzle pieces, character interactions, the cage duet |
-| Double tap | instant save + pause menu — resume drops you back mid-jump |
+- Swipe forward or back to dash, brake, switch lanes, or move the menu cursor
+- Tap to jump (double-jump once the Spring Tail is earned), grab hoops, or choose a menu option
+- Swing your arm up or down for slam-drop puzzle pieces and character interactions
+- Double-tap to save and open the pause menu
 
-No controller. No phone in your hand. Just you, a temple pad, and a very determined monkey.
+## Download
 
-GO GO MIMO! — Free software (GPL v3), only on RayNeo X3 Pro.
-
-## Install
-
-Download `MimoRun.apk` from the latest release and install with:
-
-```bash
-adb install -r MimoRun.apk
-```
+[MimoRun.apk](https://github.com/tropicalstream/MimoRun/releases/latest/download/MimoRun.apk)
